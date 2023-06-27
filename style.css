@@ -1,0 +1,20 @@
+body {
+  background-image: url(images/background.jpg);
+}
+label {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+#id_parent {
+  text-align: center;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.imgNote {
+  background-image: url("images/note.png");
+  background-repeat: no-repeat;
+  width: 250px;
+  height: 300px;
+  padding-top: 30px;
+}
